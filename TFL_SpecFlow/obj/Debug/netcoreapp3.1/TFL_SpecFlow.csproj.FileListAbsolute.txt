@@ -1,0 +1,5 @@
+C:\Users\jalade\source\repos\TFL_SpecFlow\TFL_SpecFlow\obj\Debug\netcoreapp3.1\TFL_SpecFlow.csproj.AssemblyReference.cache
+C:\Users\jalade\source\repos\TFL_SpecFlow\TFL_SpecFlow\obj\Debug\netcoreapp3.1\TFL_SpecFlow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jalade\source\repos\TFL_SpecFlow\TFL_SpecFlow\obj\Debug\netcoreapp3.1\TFL_SpecFlow.AssemblyInfoInputs.cache
+C:\Users\jalade\source\repos\TFL_SpecFlow\TFL_SpecFlow\obj\Debug\netcoreapp3.1\TFL_SpecFlow.AssemblyInfo.cs
+C:\Users\jalade\source\repos\TFL_SpecFlow\TFL_SpecFlow\obj\Debug\netcoreapp3.1\TFL_SpecFlow.csproj.CoreCompileInputs.cache
